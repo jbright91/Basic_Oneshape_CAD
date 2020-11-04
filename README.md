@@ -24,7 +24,6 @@ https://cvilleschools.onshape.com/documents/3a6102eb679edad157f28190/w/daa51e392
 
 ### Image
 
-<img src="file:///home/chronos/u-b10606ae30a90983b366c0f2102267476e04b68d/MyFiles/Downloads/Screenshot%202020-09-29%20at%202.15.24%20PM.png" width="400">
 
 ### Reflection
 
