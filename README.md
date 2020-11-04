@@ -88,9 +88,12 @@ making a wheel for the caster
 ### Evidence
 https://cvilleschools.onshape.com/documents/ab1a714db5098b30979617d8/w/a9fba579c97603045987fe28/e/7948a3f1fd426f9aee4f0f71
 ### Image
+<img src="Wheel.png" alt="alt text" width="500" height="500">
+
 
 ### Reflection
 it was kind of like the tire i just had to make fillets
+
 ---
 
 
