@@ -108,9 +108,12 @@ https://cvilleschools.onshape.com/documents/6e1874dec327220f83d75771/w/2efae485a
 ### Image
 <img src="Axle,Collar.png" alt="alt text" width="500" height="500">
 
+<img src="Bearing.png" alt="alt text" width="500" height="500">
+
 
 ### Reflection
 this one was the hardest one there was times where i thought i messed up but didnt and the hardest part was i had to go back to past parts like the wheel  and modify it
+
 ---
 
 
