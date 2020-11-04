@@ -24,8 +24,8 @@ https://cvilleschools.onshape.com/documents/3a6102eb679edad157f28190/w/daa51e392
 
 ### Image
 
-
-### Reflection
+<img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
+## Reflection
 
 it was fun to make i didnt know how to work onshape at first and that made it frustrating but sense i followed Mr.sheilds video https://youtu.be/93BFUD-HAG8 it became   
 a little easier.
