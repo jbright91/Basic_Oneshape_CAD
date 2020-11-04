@@ -31,6 +31,7 @@ https://cvilleschools.onshape.com/documents/3a6102eb679edad157f28190/w/daa51e392
 it was fun to make i didnt know how to work onshape at first and that made it frustrating but sense i followed Mr.sheilds video https://youtu.be/93BFUD-HAG8 it became   
 a little easier.
 
+---
 
 ## Mount
 
@@ -41,9 +42,11 @@ were making a mount for our caster
 https://cvilleschools.onshape.com/documents/26496c3ee5a0cfa6f517cf6f/w/32e84e9d9e39548e54f51f85/e/89cf1ff7d755f7d8c4c1d312
 
 ### Image
+<img src="Screenshot 2020-11-04 at 4.03.27 PM.png" alt="alt text" width="500" height="500">
 
 ### Reflection
 this was easy all i had to do was make circle and duplicate it
+
 ---
 
 
