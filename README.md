@@ -106,6 +106,8 @@ https://cvilleschools.onshape.com/documents/692846ce946bb5a7eb4f0715/w/4be62d24c
 https://cvilleschools.onshape.com/documents/ab1a714db5098b30979617d8/w/a9fba579c97603045987fe28/e/7948a3f1fd426f9aee4f0f71
 https://cvilleschools.onshape.com/documents/6e1874dec327220f83d75771/w/2efae485a623048c9b4b9b73/e/7e0872f86e6b6410117d34b7
 ### Image
+<img src="Axle,Collar.png" alt="alt text" width="500" height="500">
+
 
 ### Reflection
 this one was the hardest one there was times where i thought i messed up but didnt and the hardest part was i had to go back to past parts like the wheel  and modify it
