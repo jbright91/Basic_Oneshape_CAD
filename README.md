@@ -72,9 +72,12 @@ makinga tire for the caster
 ### Evidence
 https://cvilleschools.onshape.com/documents/edbd95111acfe34218e8b9d2/w/9257b1bedee1b0439564525c/e/71898ed2aac4fd278be3a743
 ### Image
+<img src="Tire.png" alt="alt text" width="500" height="500">
+
 
 ### Reflection
 this one was super easy i just had make a circle and extrude
+
 ---
 
 
