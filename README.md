@@ -24,7 +24,7 @@ https://cvilleschools.onshape.com/documents/3a6102eb679edad157f28190/w/daa51e392
 
 ### Image
 
-<img src="Screenshot 2020-10-02 at 11.11.36 AM.png" alt="alt text" width="200" height="200">
+<img src="Screenshot 2020-10-02 at 11.11.36 AM.png" alt="alt text" width="500" height="500">
 ## Reflection
 
 it was fun to make i didnt know how to work onshape at first and that made it frustrating but sense i followed Mr.sheilds video https://youtu.be/93BFUD-HAG8 it became   
